@@ -1,0 +1,14 @@
+matplotlib==3.8.0
+numpy==1.24.3
+opencv_python==4.10.0.82
+pandas==2.2.2
+Pillow==10.4.0
+Requests==2.32.3
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+selenium==4.24.0
+seleniumbase==4.26.2
+timm==1.0.9
+torch==2.4.0+cu118
+torchvision==0.19.0+cu118
+undetected_chromedriver==3.5.5
