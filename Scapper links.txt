@@ -1,2 +1,0 @@
-URL = 'https://www.psacard.com/cert/'
-FOLDER = "C:\\Users\kunho\Desktop\PSA"
